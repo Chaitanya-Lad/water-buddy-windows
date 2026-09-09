@@ -6,15 +6,15 @@ Water Buddy is a lightweight Windows desktop hydration reminder built with PyQt6
 
 ### Reminder window
 
-![Water Buddy reminder window](Screenshot%202026-09-09%20204852.png)
+![Water Buddy reminder window](Screenshot/Screenshot%202026-09-09%20204852.png)
 
 ### Settings
 
-![Water Buddy settings](Screenshot%202026-09-09%20204641.png)
+![Water Buddy settings](Screenshot/Screenshot%202026-09-09%20204641.png)
 
 ### Windows notification area
 
-![Water Buddy in the Windows notification area](Screenshot%202026-09-09%20204721.png)
+![Water Buddy in the Windows notification area](Screenshot/Screenshot%202026-09-09%20204721.png)
 
 ## Quick start
 
